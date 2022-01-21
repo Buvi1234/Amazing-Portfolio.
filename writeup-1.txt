@@ -1,0 +1,22 @@
+Easy way to create your amazing portifolio
+
+Language used:angular and typescript.
+
+This project is all about the portifolio of my profile .
+this project is based on angualr and 
+there are some screenshots are included for the reference .
+
+There are multiple sections are there in the project.
+
+header.
+footer.
+education.
+experience.
+profile .
+contact me.
+ad other 
+
+There are some buttons in the profile that you can download the cv .
+If we click the social media buttons it will take us to the soial media profiles.
+It has the contact form to contact us if they really like the profile.
+
